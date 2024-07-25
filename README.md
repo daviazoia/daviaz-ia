@@ -1,4 +1,4 @@
-## Boas Vindas Ao meu perfil
+## Boas Vindas Ao meu perfil 🐊
 
 Meu nome é Davi Azoia
 - Estou estudando na Alura
@@ -6,4 +6,4 @@ Meu nome é Davi Azoia
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 
-davi.asoia.costa@escola.pr.gov.br
+davi.asoia.costa@escola.pr.gov.br 📩
