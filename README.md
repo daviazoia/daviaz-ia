@@ -8,3 +8,4 @@ Meu nome é Davi Azoia
 ### Você entrar em contato comigo 
 davi.asoia.costa@escola.pr.gov.br 📩
 
+![](https://media1.tenor.com/m/GA-xYsUZWHAAAAAC/minions.gif)
